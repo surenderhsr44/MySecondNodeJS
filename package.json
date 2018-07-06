@@ -1,0 +1,12 @@
+{
+  "name": "mysecondnodejs",
+  "version": "1.0.0",
+  "description": "website for my new app",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
